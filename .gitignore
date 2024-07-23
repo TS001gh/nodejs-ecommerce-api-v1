@@ -1,0 +1,4 @@
+node_modules/
+npm WARN deprecated minimatch@0.3.0: Please update to minimatch 3 or higher as minimatch 0.3.
+config.env
+notes.txt
